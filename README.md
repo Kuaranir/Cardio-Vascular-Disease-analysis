@@ -1,5 +1,5 @@
 # Cardio-Vascular-Disease-analysis :heart: :hospital:
-Prediction CVD in patients
+Prediction CVD in patients.
 This is my small pet-project about cardiovascular disease (CVD) in patients of different ages using 12 features. “Cardio” is the target feature.  
 Preliminarily, I cleaned the data and got rid of outliers.
 Then I made some visualizations and tested a few hypotheses.
