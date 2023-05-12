@@ -14,4 +14,8 @@ Also, there is a Power BI dashboard.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Google Colab"/>
 </a>
 
+PowerBI dash with some conclusions based on data:
+![PowerBI dash cardio analysis]([screenshot.png](https://github.com/Kuaranir/Cardio-Vascular-Disease-analysis/blob/main/Dashboard%20PowerBI.pdf))
+
+
 Your feedback is welcome to me. :raised_hands:
