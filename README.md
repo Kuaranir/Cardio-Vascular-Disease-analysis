@@ -15,6 +15,6 @@ Also, there is a Power BI dashboard.
 </a>
 
 PowerBI dash with some conclusions based on data:
-<a href="https://ibb.co/nffJgCW"><img src="https://i.ibb.co/K77v0w1/cardiodash.png" alt="cardio_analysis" border="0"></a>
+<a href="https://ibb.co/nffJgCW"><img src="https://i.ibb.co/K77v0w1/cardiodash.png" alt="cardio-analysis" border="0"></a>
 
 Your feedback is welcome to me. :raised_hands:
