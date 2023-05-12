@@ -15,7 +15,6 @@ Also, there is a Power BI dashboard.
 </a>
 
 PowerBI dash with some conclusions based on data:
-![PowerBI dash cardio analysis]([screenshot.png](https://github.com/Kuaranir/Cardio-Vascular-Disease-analysis/blob/main/Dashboard%20PowerBI.pdf))
-
+<a href="https://ibb.co/nffJgCW"><img src="https://i.ibb.co/K77v0w1/cardiodash.png" alt="cardio_analysis" border="0"></a>
 
 Your feedback is welcome to me. :raised_hands:
