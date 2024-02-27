@@ -1,5 +1,6 @@
 # Cardio-Vascular-Disease-analysis :heart: :hospital: EDA
 Прогнозирование вероятности сердечно-сосудистых заболеваний у пациентов по 12 признакам.
+
 Prediction CVD in patients.
 This is my small pet-project about cardiovascular disease (CVD) in patients of different ages using 12 features. “Cardio” is the target feature.  
 
