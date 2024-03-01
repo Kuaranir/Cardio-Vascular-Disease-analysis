@@ -11,6 +11,7 @@ XGBoost showed the best result.
 In the end, I made visualization with showing the most important features for the each of above classifiers.
 Also, there is a Power BI dashboard.
 
+Click on "Open in Colab" below to see DETAILED conclusions and code:
 <a href="https://colab.research.google.com/drive/1uwdU0gvJUCOd1SFshV4E6cYY2h6Q_af0">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Google Colab"/>
 </a>
